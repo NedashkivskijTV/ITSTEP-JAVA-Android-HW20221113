@@ -13,4 +13,5 @@ graphic part of Calculator
 
 Обязательно скриншот готового приложения.
 
-![image](https://user-images.githubusercontent.com/88108788/201926116-7d23c4e2-2011-46b9-ba86-ee141e3ea611.png)
+![image](https://user-images.githubusercontent.com/88108788/201926260-885846e7-c881-42b5-9882-08dbda2d8f14.png)
+
